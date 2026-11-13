@@ -1,6 +1,6 @@
 # Costruisci il tuo assistente IA
 
-Una piccola web app per la **verifica finale del percorso formativo sull'intelligenza artificiale nella Pubblica Amministrazione**, progettata per i funzionari del Comune di Genova.
+Una piccola web app per la **verifica finale del percorso formativo sull'intelligenza artificiale nella Pubblica Amministrazione**, progettata per i funzionari del Comune di XXXX.
 
 ## L'idea
 
