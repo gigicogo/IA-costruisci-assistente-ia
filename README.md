@@ -33,15 +33,6 @@ L'app è statica: **un solo file `index.html`**, senza dipendenze, backend, trac
 
 La grafica è responsive, le tessere sono pulsanti utilizzabili con tastiera, le scelte sono leggibili da tecnologie assistive e le risposte non richiedono drag-and-drop.
 
-## Pubblicazione su GitHub Pages
-
-1. Crea un nuovo repository GitHub, per esempio `Costruisci-il-tuo-assistente-IA`.
-2. Carica `index.html` e `README.md` nella radice del repository.
-3. In **Settings → Pages**, scegli **Deploy from a branch**.
-4. Seleziona branch `main` e cartella `/ (root)`, poi salva.
-5. L'indirizzo sarà simile a `https://NOMEUTENTE.github.io/Costruisci-il-tuo-assistente-IA/`.
-
-Non servono Node.js, build, token, chiavi API o configurazioni.
 
 ## Materiali didattici di riferimento
 
