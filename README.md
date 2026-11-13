@@ -1,6 +1,6 @@
 # Costruisci il tuo assistente IA
 
-Una piccola web app per la **verifica finale del percorso formativo sull'intelligenza artificiale nella Pubblica Amministrazione**, progettata per i funzionari del Comune di XXXX.
+Una piccola web app per la **verifica finale del percorso formativo sull'intelligenza artificiale nella Pubblica Amministrazione**, pensata per i funzionari degli enti pubblici.
 
 ## L'idea
 
@@ -41,3 +41,22 @@ L'esercizio riprende i contenuti del percorso: scenario e limiti dell'IA, AI Act
 ## Personalizzazione
 
 Tutti i testi delle tappe sono raccolti nell'array JavaScript `stages` all'interno di `index.html`. Per modificare un caso si possono aggiornare titolo, descrizione, opzioni, soluzioni (`correct`) e punteggio (`points`). La somma dei punti delle sette tappe deve rimanere 100.
+
+---
+
+## 📄 Licenza e riuso
+
+Puoi usare, copiare, modificare e condividere questo progetto, anche per attività formative, professionali e commerciali, senza chiedere un’autorizzazione preventiva.
+
+Salvo diversa indicazione, il codice è distribuito con licenza [MIT](https://opensource.org/license/mit), mentre i testi e i materiali didattici sono distribuiti con licenza [Creative Commons Attribuzione 4.0 Internazionale](https://creativecommons.org/licenses/by/4.0/deed.it).
+
+Nel riuso, conserva gli avvisi previsti dalla licenza MIT; per testi e materiali didattici, cita **Gianluigi Cogo**, inserisci un collegamento al progetto originale e alla licenza e indica eventuali modifiche. Gli eventuali materiali di terzi mantengono le rispettive licenze.
+
+## 👤 Autore e contesto
+
+**Gianluigi Cogo** — Content creator e technical writer interessato ad AI generativa, automazioni, viaggi e strumenti digitali. Consulente e docente sui temi dell’IA generativa, dell’innovazione e della comunicazione.
+
+- 📮 Newsletter: [gigicogo.substack.com](https://gigicogo.substack.com)
+- 📝 Blog: [medium.com/webeconoscenza](https://medium.com/webeconoscenza)
+- ▶️ YouTube: [youtube.com/@gigicogo](https://www.youtube.com/@gigicogo)
+- 💼 LinkedIn: [linkedin.com/in/gigicogo](https://it.linkedin.com/in/gigicogo)
